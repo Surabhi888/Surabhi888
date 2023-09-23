@@ -11,20 +11,23 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
- <h1 align="center">Hi 👋, I'm Surabhi Nigam</h1>
+<h1 align="center">Hi 👋, I'm Surabhi Nigam</h1>
 <h3 align="center">Mastering the Art of Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surabhi888&label=Profile%20views&color=0e75b6&style=flat" alt="surabhi888" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surabhi888" alt="surabhi888" /></a> </p>
-
 - 🔭 I’m currently working on **Farm Arcadia**
+
+- 📫 How to reach me **surabhi.252002@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BPhhkMUb_HVZFRjoHYCwsy8TxMdJfX0C/view?usp=drive_link](https://drive.google.com/file/d/1BPhhkMUb_HVZFRjoHYCwsy8TxMdJfX0C/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/surabhi-nigam-057011217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surabhi-nigam-057011217" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@2003480130027_it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@2003480130027_it" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/2003480130027_it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="2003480130027_it" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/surabhi_nigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="surabhi_nigam" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/surabhi252002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="surabhi252002" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,7 +37,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surabhi888&show_icons=true&locale=en" alt="surabhi888" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surabhi888&" alt="surabhi888" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surabhi888&" alt="surabhi888" /></p>
+
   
 <!--
 **Surabhi888/Surabhi888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
