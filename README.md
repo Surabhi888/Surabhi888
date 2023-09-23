@@ -3,10 +3,6 @@
   <img src="https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif" width="200"/>
 </div>
 
-  <h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 <h1 align="center">Hi 👋, I'm Surabhi Nigam</h1>
 <h3 align="center">Mastering the Art of Engineering</h3>
 
